@@ -51,7 +51,7 @@ img{
   border-radius: 3%;
 }
 .bg-color{
-  background-color: #a3273e;
+  background-color: #6378bd;
   border-radius: 5%;
   width: 350px;
   height: 450px;
@@ -61,4 +61,7 @@ img{
 section{
    display: flex;
   justify-content: center;
+}
+ul{
+  list-style-type: none;
 }
