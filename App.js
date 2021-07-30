@@ -1,6 +1,6 @@
 
 import './App.css';
-import Peoples from './Components/Peoples';
+import Peoples from './Component/Peoples';
 
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
       
       
 
-      <Peoples/>
+      <Peoples />
 
 
 

@@ -48,7 +48,7 @@ p{
 img{
   width: 250px;
   height: 250px;
-  border-radius: 3%;
+  border-radius: 10%;
 }
 .bg-color{
   background-color: #6378bd;
@@ -58,7 +58,7 @@ img{
   margin: 8px;
   
 }
-section{
+.mentor{
    display: flex;
   justify-content: center;
 }
